@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoC.&theme=tokyonight_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakorim&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakorim&show_icons=true)
+
 
 
 <!--
