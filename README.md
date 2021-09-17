@@ -1,18 +1,21 @@
-### Hi there, I'm Bruno - aka Dakorim 
-<img width="1000px" src="https://media.giphy.com/media/2qzHVSVfPcBlC/giphy.gif?cid=790b761138ab63e4399f40abba45a58f53b3e3587cee7443&rid=giphy.gif&ct=g" />
+### <font face="Augusta"><h1>Hi there programmer traveler, I'm Bruno The Dakorim </h1></font>
+<img width="500px" src="https://media.giphy.com/media/2qzHVSVfPcBlC/giphy.gif?cid=790b761138ab63e4399f40abba45a58f53b3e3587cee7443&rid=giphy.gif&ct=g" />
 
 
 
-## I am a growing programmer with a lot of stamina 
+## I am a growing programer seeking for knowleged 
 
-* <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/7/78/Def_res_poise.png/revision/latest?cb=20111011015749"/>I’m interested in Programming, Music, Cinema (even Acting and Voice Actor), and Videogames
+* <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/7/75/Para_faith_large.png/revision/latest?cb=20111011014229"/>I’m interested in Programming, Music, Cinema (even Acting and Voice Actor), and Videogames
 * <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/0/0e/Para_attun_large.png/revision/latest?cb=20111011014102"/> I’m currently learning Web and Video Game Development, I'm learnig JavaScript and Unity for games.
 * <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/3/31/Para_resist_large.png/revision/latest?cb=20111011014158"/> I’m looking to collaborate on any project to help me to gain some experience, to seek for knowleged and grow up in everything about programming
-* <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/6/62/Para_str_large.png/revision/latest?cb=20111011014130"/> To contact me, you can get my e-mail or linkedin
+
 
 ---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakorim&show_icons=true&theme=tokyonight)
----
+ <a href="https://github.com/eichenbergerche"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakorim&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
+
+   ---
 
 ### Contact with me 📝
 
@@ -46,20 +49,15 @@
 <br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
-  
+   
   <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
+    
 </div
   
 <br/>
 
 [mail]: cabrerabruno22@gmail.com
-[instagram]: 
+[instagram]: https://www.instagram.com/bruno.ncab/ 
 [linkedin]:https://www.linkedin.com/in/bruno-cabrera-99b370210/
 
 
