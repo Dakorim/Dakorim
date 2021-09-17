@@ -19,7 +19,7 @@
 ### Contact with me 📝
 
 
-[<img align="left" alt="Dakorim | Email" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][Mail]
+[<img align="left" alt="Dakorim | Email" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][e-mail]
 [<img align="left" alt="Dakorim | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="Dakorim | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-[mail]: cabrerabruno22@gmail.com
+[e-mail]: (mailto:cabrerabruno22@gmail.com)
 [instagram]: https://www.instagram.com/bruno.ncab/ 
 [linkedin]:https://www.linkedin.com/in/bruno-cabrera-99b370210/
 
