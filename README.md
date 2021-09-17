@@ -2,7 +2,6 @@
 <img width="500px" src="https://media.giphy.com/media/2qzHVSVfPcBlC/giphy.gif?cid=790b761138ab63e4399f40abba45a58f53b3e3587cee7443&rid=giphy.gif&ct=g" />
 
 
-
 ## I am a growing programer seeking for knowleged 
 
 * <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/7/75/Para_faith_large.png/revision/latest?cb=20111011014229"/>I’m interested in Programming, Music, Cinema (even Acting and Voice Actor), and Videogames
@@ -42,18 +41,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-   
-  <div align="center"> 
-    
-</div
-  
 <br/>
 
 [mail]: cabrerabruno22@gmail.com
