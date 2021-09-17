@@ -8,7 +8,7 @@
 * <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/7/78/Def_res_poise.png/revision/latest?cb=20111011015749"/>I’m interested in Programming, Music, Cinema (even Acting and Voice Actor), and Videogames
 * <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/0/0e/Para_attun_large.png/revision/latest?cb=20111011014102"/> I’m currently learning Web and Video Game Development, I'm learnig JavaScript and Unity for games.
 * <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/3/31/Para_resist_large.png/revision/latest?cb=20111011014158"/> I’m looking to collaborate on any project to help me to gain some experience, to seek for knowleged and grow up in everything about programming
-* <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/6/62/Para_str_large.png/revision/latest?cb=20111011014130"/> How to reach me? If you like my repos, you would contact me by e-mail or linkedin
+* <img width="25px" src="https://static.wikia.nocookie.net/darksouls/images/6/62/Para_str_large.png/revision/latest?cb=20111011014130"/> To contact me, you can get my e-mail or linkedin
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakorim&show_icons=true&theme=tokyonight)
