@@ -43,7 +43,7 @@
 
 <br/>
 
-[e-mail]: (mailto:cabrerabruno22@gmail.com)
+[e-mail]: mailto:cabrerabruno22@gmail.com
 [instagram]: https://www.instagram.com/bruno.ncab/ 
 [linkedin]:https://www.linkedin.com/in/bruno-cabrera-99b370210/
 
